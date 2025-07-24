@@ -33,7 +33,6 @@
   <li>🎨 <strong>CSS3</strong> – Estilização moderna e responsiva (com <code>@media</code>)</li>
   <li>🖥 <strong>JavaScript</strong> – Interatividade com modal, WhatsApp, e navegação</li>
   <li>🧰 <strong>VS Code</strong> – Ambiente de desenvolvimento</li>
-  <li>🖼 <strong>Figma / Photoshop</strong> – Criação de imagens (opcional)</li>
   <li>📦 <strong>Git e GitHub</strong> – Controle de versão e hospedagem do código</li>
   <li>🌍 <strong>Netlify</strong> – Deploy gratuito e rápido</li>
 </ul>
