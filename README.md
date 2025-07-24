@@ -22,7 +22,7 @@
 
 <h2>🌐 Acesse o Site</h2>
 <p>
-  👉 <a href="https://SEU-LINK-NETLIFY-AQUI](https://dev-thiago-rodrigues.netlify.app/" target="_blank">Ver site publicado no Netlify</a>
+  👉 <a href="https://dev-thiago-rodrigues.netlify.app/" target="_blank">Ver site publicado no Netlify</a>
 </p>
 
 <hr>
@@ -61,5 +61,25 @@
 index.html       → Página principal
 styles.css       → Estilos personalizados
 script.js        → Funcionalidades JS
-README.md
+README.md        → Documentação do projeto
+</pre>
+
+<hr>
+
+<h2>📬 Contato</h2>
+<p>
+  Entre em contato diretamente pelo site ou envie uma mensagem no WhatsApp direto do formulário!
+</p>
+
+<hr>
+
+<h2>📌 Licença</h2>
+<p>
+  Este projeto é de uso pessoal. Sinta-se à vontade para se inspirar e criar o seu próprio portfólio!
+</p>
+
+<hr>
+
+<p align="center">Feito com ❤️ por <strong>Thiago Rodrigues</strong></p>
+
 
