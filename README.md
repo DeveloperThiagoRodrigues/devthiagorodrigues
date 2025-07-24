@@ -22,7 +22,7 @@
 
 <h2>🌐 Acesse o Site</h2>
 <p>
-  👉 <a href="[https://SEU-LINK-NETLIFY-AQUI](https://dev-thiago-rodrigues.netlify.app/)" target="_blank">Ver site publicado no Netlify</a>
+  👉 <a href="https://SEU-LINK-NETLIFY-AQUI](https://dev-thiago-rodrigues.netlify.app/" target="_blank">Ver site publicado no Netlify</a>
 </p>
 
 <hr>
